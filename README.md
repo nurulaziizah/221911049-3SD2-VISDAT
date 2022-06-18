@@ -102,7 +102,7 @@ Variabel yang digunakan pada penelitian ini meliputi:
   Menurut beberapa penelitian, klasterisasi yang dilakukan menggunakan klaster optimum sebanyak 5 klaster. Oleh karena itu, pada penelitian ini akan menggunakan 5 klaster.
   <li>Hasil klasterisasi dan visualisasi</li>
   Berikut merupakan tampilan dari dashboard visualisasi data kemiskinan per provinsi di Indonesia.
-  ![visualisasi data kemiskinan per provinsi di Indonesia tahun 2018](https://github.com/nurulaziizah/221911049-3SD2-VISDAT/blob/images/2018.jpg?raw=true)
+  ![visualisasi data kemiskinan per provinsi di Indonesia tahun 2018](https://github.com/nurulaziizah/221911049-3SD2-VISDAT/images/2018.png?raw=true)
   
 </ol>
 - [x] Add Changelog
