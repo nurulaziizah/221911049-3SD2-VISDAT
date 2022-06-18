@@ -102,40 +102,13 @@ Variabel yang digunakan pada penelitian ini meliputi:
   Menurut beberapa penelitian, klasterisasi yang dilakukan menggunakan klaster optimum sebanyak 5 klaster. Oleh karena itu, pada penelitian ini akan menggunakan 5 klaster.
   <li>Hasil klasterisasi dan visualisasi</li>
   Berikut merupakan tampilan dari dashboard visualisasi data kemiskinan per provinsi di Indonesia.
-  ![visualisasi data kemiskinan per provinsi di Indonesia tahun 2018](https://github.com/nurulaziizah/221911049-3SD2-VISDAT/images/2018.png?raw=true)
   
+![Screenshot (1088)](https://user-images.githubusercontent.com/107758816/174447698-bc1a3db2-9679-4f7a-8c2f-453b2461380d.png)
+![Screenshot (1089)](https://user-images.githubusercontent.com/107758816/174447700-c0fc67f3-4931-4ee9-b873-440cc0d82f68.png)  
+![Screenshot (1091)](https://user-images.githubusercontent.com/107758816/174447692-35358446-db08-4163-8d7f-5113acf26886.png)
+![Screenshot (1092)](https://user-images.githubusercontent.com/107758816/174447697-742d13ff-1993-4d6a-b64e-6d3dac0b954a.png)
+
 </ol>
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -149,7 +122,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+NURUL AZIZAH - 221911049(3SD2) - 221911049@stis.ac.id
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
